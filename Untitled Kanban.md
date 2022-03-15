@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## deneme
 
-- [ ] asdasd
+- [ ] asdasd @{2022-03-16}
 
 
 
