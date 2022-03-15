@@ -7,11 +7,9 @@
         "id": "6d234882afa73da2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Firebase.md",
-            "mode": "source",
-            "source": false
+            "file": "Untitled Kanban.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Firebase.md",
+                "file": "Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +95,7 @@
   },
   "active": "6d234882afa73da2",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
     "Firebase.md",
     "Firebase Login.md",
     "Bitirme Projesi.md",
