@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "c8bfd23279b194a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d234882afa73da2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Firebase.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fcf5356a377e42d",
+    "type": "split",
+    "children": [
+      {
+        "id": "418071d4015dca61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec5dbeb1b74ac7fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6eab9aaeff5e89b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "26a04194676f4a67",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab8765f6da2afa53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfac2f90ce9edc19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Firebase.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9cf5e631b331db08",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "6d234882afa73da2",
+  "lastOpenFiles": [
+    "Firebase.md",
+    "Firebase Login.md",
+    "Bitirme Projesi.md",
+    "Chrome Clippings 1.md",
+    "Chrome Clippings.md"
+  ]
+}
